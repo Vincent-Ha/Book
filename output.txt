@@ -1,0 +1,37 @@
+Pedro Paramo  by Juan Rulfo
+$8.95
+ISBN: 1123456
+
+Como agua para chocolate by Laura Esquivel
+$6.90
+ISBN: 2375689
+
+Cajas de carton by Francisco Jimenez
+$10.99
+ISBN: 2256839
+
+La casa de los espiritus by Isabel Allende
+$7.50
+ISBN: 2117889
+
+El alquimista by Paulo Coelho
+$8.50
+ISBN: 3212132
+
+El beso de la mujer arana by Manuel Puig
+$7.75
+ISBN: 3456743
+
+Los diarios de motocicleta by Ernesto Che Guevara
+$10.99
+ISBN: 2241174
+
+La casa en Mango Street by Sandra Cisneros
+$6.80
+ISBN: 1134231
+
+Oficio de tinieblas by Rosario Castellanos
+$9.95
+ISBN: 1234567
+
+
